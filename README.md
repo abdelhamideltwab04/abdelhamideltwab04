@@ -25,3 +25,26 @@
 [![](https://komarev.com/ghpvc/?username=abdelhamideltwab04&icon=0&color=2EBF65)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/abdelhamideltwab04/abdelhamideltwab04/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/abdelhamideltwab04/abdelhamideltwab04/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/abdelhamideltwab04/abdelhamideltwab04/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+---
